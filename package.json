@@ -1,0 +1,20 @@
+{
+  "name": "glyph",
+  "version": "1.0.0",
+  "description": "Discord bot for Weeablues server",
+  "main": "app.js",
+  "dependencies": {
+    "bufferutil": "^4.0.0",
+    "discord.js": "^11.4.2",
+    "node-polyglot": "^2.3.0"
+  },
+  "devDependencies": {
+    "node-env-run": "^3.0.2"
+  },
+  "scripts": {
+    "start": "nodenv .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "boshtet@protonmail.ch",
+  "license": "MIT"
+}
