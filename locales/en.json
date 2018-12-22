@@ -1,4 +1,7 @@
 {
-  "console_banner": "Logged in as %{tag}!",
-  "greeting": "At your service, Shadow Broker!"
+  "__console_banner": "Logged in as %{tag}!",
+  "__console_module": "Loaded module: %{module}.",
+  "greeting": "Greetings, Shadow Broker!",
+  "help_offer": "I don't understand that, Shadow Broker. Would you like to peruse my operating manual?",
+  "ping": "At your service, Shadow Broker."
 }
