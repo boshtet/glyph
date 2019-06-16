@@ -1,4 +1,4 @@
 module.exports.name = 'ping';
-module.exports.execute = (message, polyglot) => {
-    message.channel.send(polyglot.t('ping'));
+module.exports.execute = (message, i18n) => {
+    message.channel.send(i18n.t('ping'));
 };
