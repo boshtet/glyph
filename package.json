@@ -5,6 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "bufferutil": "^4.0.0",
+    "compromise": "^11.13.2",
     "discord.js": "^11.4.2",
     "node-polyglot": "^2.3.0"
   },
