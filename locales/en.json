@@ -1,7 +1,13 @@
 {
-  "__console_banner": "Logged in as %{tag}!",
-  "__console_module": "Loaded module: %{module}.",
-  "greeting": "Greetings, Shadow Broker!",
+  "__console_debug_received_known_command": "Received command '%{command}' with arguments: %{args}.",
+  "__console_debug_received_unknown_command": "Received unknown command '%{command}'.",
+  "__console_debug_http_response_code": "Received HTTP response with status code %{code}.",
+  "__console_info_banner": "Logged in as %{tag}. At your service, Shadow Broker!",
+  "__console_info_module": "Loaded module: %{module}.",
+  "greeting": "Welcome, Shadow Broker!  It is a pleasure to have you on board.",
   "help_offer": "I don't understand that, Shadow Broker. Would you like to peruse my operating manual?",
-  "ping": "At your service, Shadow Broker."
+  "ping": "At your service, Shadow Broker!",
+  "thanks": "Glad to be of assistance!",
+  "link_not_found": "Apologies, Shadow Broker. There are no links matching your parameters.",
+  "link_found": "At your service, Shadow Broker!\n*%{title}*\n<%{link}>"
 }
